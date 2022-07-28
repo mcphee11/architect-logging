@@ -36,7 +36,7 @@ Save the changes and ensure that the Integration is "Active".
 
 Once you have installed this integration you can import the dataAction below:
 
-    [Logging to GC Chat Group](/docs/dataAction/Logging-to-GC-Chat-Group.json)
+[Logging to GC Chat Group](/docs/dataAction/Logging-to-GC-Chat-Group.json)
 
 You will need to replace the URL with your own from the above step where you are given the WebHook URL. Now save and Publish the Action as well as ensuring that the Integration is "Active". Now all the pre setup is done we can get to using this new DataAction in the Architect flow.
 
